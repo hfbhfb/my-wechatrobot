@@ -1,3 +1,10 @@
+
+# 增加k8s配置文件
+
+
+
+
+
 # wechatrobot
 
 prometheus 告警使用 alertmanager 通过群机器人发送到企业微信群，消息使用 markdown 展示。该程序将企业微信群机器人 URL 转换为 alertmanger 易于配置的 webhook 方法。
